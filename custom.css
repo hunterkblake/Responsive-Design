@@ -1,0 +1,107 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+Html {background-color:#450084 }
+
+body {
+	background-color: #450084;
+	Margin:100px;
+	outline-color: #CBB677;
+	color: dimgray;
+	outline-style: ridge;
+	outline-width: 20px;
+
+}
+
+.activities-section {
+  background-color:#450084;
+  outline-color: #CBB677;
+	color: dimgray;
+	outline-style: ridge;
+	outline-width: 20px;
+}
+
+.Dining-section {
+  background-color:#450084;
+  outline-color: #CBB677;
+	color: dimgray;
+	outline-style: ridge;
+	outline-width: 20px;
+}
+
+.Entertainment-section
+{
+  background-color:#450084;
+  outline-color: #CBB677;
+	color: dimgray;
+	outline-style: ridge;
+	outline-width: 20px;
+}
+
+.Shopping-section{
+  background-color:#450084;
+  outline-color: #CBB677;
+	color: dimgray;
+	outline-style: ridge;
+	outline-width: 20px;
+}
+
+.Coffee-section
+{
+  background-color:#450084;
+  outline-color: #CBB677;
+	color: dimgray;
+	outline-style: ridge;
+	outline-width: 20px;
+}
+
+
+nav {background-color: #450084;
+color:#CBB677; }
+
+.nav-link
+{color: #CBB677;}
+
+#page-top
+{background-color: whitesmoke;}
+
+#dining
+{background-color: dimgray;}
+
+header
+{background-color: #450084;
+}
+.navbar-brand {
+  color: #CBB677;
+}
+ul
+{}
+h1
+{color: #CBB677;
+}
+
+.lead
+{color: #CBB677;}
+
+ul
+{list-style: lower-norwegian;
+color: #CBB677;}
+
+h2
+{color: #CBB677;
+}
+
+h3
+{color: #CBB677;}
+
+a
+{Color: #CBB677;
+}
+
+footer
+{background-color:#CBB677;
+color: #450084}
+
+
+
+
